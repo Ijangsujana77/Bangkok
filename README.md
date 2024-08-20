@@ -1,0 +1,2 @@
+# Bangkok
+Melengkapi termux
